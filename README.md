@@ -1,2 +1,0 @@
-# LGVL-BareMetal-Demo
-
